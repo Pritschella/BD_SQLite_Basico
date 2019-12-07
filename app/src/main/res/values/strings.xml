@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BD_SQLite_Basico</string>
+
+    <string name="txt_btn_altas">AGREGAR</string>
+    <string name="txt_btn_bajas">ELIMINAR</string>
+    <string name="txt_btn_cambios">MODIFICAR</string>
+    <string name="txt_btn_consultas">BUSCAR</string>
+
+    <string name="txt_text_altas">ALTAS ALUMNOS</string>
+    <string name="txt_text_bajas">BAJAS ALUMNOS</string>
+    <string name="txt_text_cambios">MODIFICACIONES ALUMNOS</string>
+    <string name="txt_text_consultas">CONSULTAS ALUMNOS</string>
+
+
+    <string name="txt_text_NumControl">NumControl: </string>
+    <string name="txt_text_Nombre">Nombre: </string>
+    <string name="txt_text_PrimerAp">PrimerAp: </string>
+    <string name="txt_text_SegundoAp">SegundoAp: </string>
+    <string name="txt_text_Edad">Edad: </string>
+    <string name="txt_text_Semestre">Semestre: </string>
+    <string name="txt_text_Carrera">Carrera: </string>
+
+
+</resources>
